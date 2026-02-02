@@ -79,3 +79,6 @@
 - https://medium.com/@yousefhosni/unlocking-the-mysteries-of-diffusion-models-an-in-depth-exploration-aa02d2e44963?source=email-afeafff77325-1697436423679-digest.reader-98111c9905da-aa02d2e44963----1-108------------------81c782d6_503e_4e1e_90d8_04028ceb1bd9-1
 - https://medium.com/@maheshsaini.sec/grabs-database-architecture-to-handle-millions-of-orders-system-design-2c21571d86b4?source=email-afeafff77325-1697436423679-digest.reader-5517fd7b58a6-2c21571d86b4----0-99------------------81c782d6_503e_4e1e_90d8_04028ceb1bd9-1
 - https://medium.com/@talsec/protecting-your-api-from-app-impersonation-token-hijacking-guide-and-mitigation-of-jwt-theft-48e744b76327?source=email-afeafff77325-1697349547247-digest.reader--48e744b76327----5-102------------------75f6e6b9_c14e_4507_a092_5cfd13988a83-1
+- https://medium.com/@Lance_ly/please-stop-using-autowired-field-injection-in-the-spring-bdb8bc65b486?source=email-afeafff77325-1697954686425-digest.reader-5517fd7b58a6-bdb8bc65b486----14-109------------------903ef061_3ddf_426f_8b70_65ba5bcd9648-1
+- https://medium.com/@kristiyan.velkov/design-pattern-factory-method-typescript-examples-3cbba74c6f6a?source=email-afeafff77325-1697954686425-digest.reader-a7e6e37eb5c6-3cbba74c6f6a----13-109------------------903ef061_3ddf_426f_8b70_65ba5bcd9648-1
+- 
