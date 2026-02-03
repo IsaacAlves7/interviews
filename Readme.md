@@ -1,4 +1,6 @@
-## Leetcode Company wise Problems Lists
+## Leetcode Company wise Problems List
+For career, interviews, talks, labour market and possibilities:
+
 - Curated lists of Leetcode questions group by companies, updated as of 1 June 2025.
 - Each company folder consists of questions from the past 30, 60, 90 days and all time questions wherever available.
 - System Design Notes: https://github.com/liquidslr/system-design-notes
@@ -170,3 +172,4 @@
 - https://medium.com/@rjroopal/understanding-design-patterns-in-react-888afe845cae?source=email-afeafff77325-1698215129862-digest.reader--888afe845cae----12-98------------------967cd37c_61f7_416e_90cf_c42ed9148e5c-1
 - https://medium.com/@manutej/mastering-sql-subqueries-a-comprehensive-guide-633dc50ac294?source=email-afeafff77325-1698215129862-digest.reader--633dc50ac294----13-98------------------967cd37c_61f7_416e_90cf_c42ed9148e5c-1
 - https://medium.com/@shreyasmatade/git-branching-best-practices-for-software-development-d2a10bdc00bf?source=email-afeafff77325-1698215129862-digest.reader--d2a10bdc00bf----14-98------------------967cd37c_61f7_416e_90cf_c42ed9148e5c-1
+- https://medium.com/@ruizb/advices-from-a-software-engineer-with-8-years-of-experience-8df5111d4d55?source=email-afeafff77325-1698473490513-digest.reader-d0b105d10f0a-8df5111d4d55----0-102------------------067f8009_6657_46ec_970c_5486c9fe0f99-1
