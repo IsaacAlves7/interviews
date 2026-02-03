@@ -1,5 +1,5 @@
 ## Leetcode Company wise Problems List
-For career, interviews, talks, labour market and possibilities:
+For mindset, career, interviews, talks, labour market and possibilities:
 
 - Curated lists of Leetcode questions group by companies, updated as of 1 June 2025.
 - Each company folder consists of questions from the past 30, 60, 90 days and all time questions wherever available.
