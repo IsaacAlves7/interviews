@@ -1,6 +1,141 @@
 # Leetcode Company wise Problems List
 For mindset, career, interviews, talks, labour market and possibilities:
 
+The Top 3 Resume Mistakes Costing You the Job
+
+For this week's issue, I am pleased to introduce our guest author, Ethan Evans, a retired Amazon VP who played a pivotal role in creating some of the groundbreaking services we use today, such as Prime Video, Amazon Video, the Amazon Appstore, Prime Gaming (formerly Twitch Prime), and Twitch Commerce.
+
+Beyond his experience as an engineering leader, Ethan is also a career growth coach who has assisted numerous individuals to get unstuck and level up their careers.
+
+We'll be discussing with Ethan one of the most critical steps in a job search: writing a great resume. Specifically, he'll cover the top three mistakes almost everyone makes when preparing their resume. He'll also delve into details on how to correct them.
+
+If you would like to connect with Ethan, you can do so on Twitter and LinkedIn. Also, be sure to check out his newsletter and career community, Level Up, and explore his range of Leadership Development Courses, including live online classes and on-demand courses. 
+
+Ethan, here. I’ve reviewed more than 10,000 resumes in my career and conducted over 2,500 interviews. At Amazon and Twitch, I taught an internal class on how to interview, called “Making Great Hiring Decisions.” I was a “Bar Raiser,” which means I was someone from outside the hiring team designated to join an interview with the power to veto a hiring decision if I believed a candidate was wrong for the company.
+
+Earlier in my career, despite my engineering background, I ran recruiting and had recruiters reporting directly to me at three startups. Today, I coach individuals through their job searches, and I have tested what does and doesn’t work. All this is to say, I know what recruiters and hiring managers want in a resume.
+
+One thing I’ve observed is that 90% of resumes I see contain at least one of three major mistakes. In this article, I will walk you through each one and how to correct it, and then we’ll cover the smaller things you can do to take your resume to the next level; from good to amazing. Finally, we’ll conclude with how to know when to stop worrying about your resume and move on to the next phase of your job search.
+
+Before we get into common errors, let’s briefly review the goals of a resume and what recruiters and hiring managers are looking for when they read one.
+
+First, the goal of a resume is not to get you a job; it is to get you a call. If a resume results in someone reaching out to you, then it has done its job. One driver of mistakes on a resume is trying to make it do too much. We want to optimize our resume to get us on the phone, not to tell our life story.
+
+You have probably heard that recruiters skim resumes in just a few seconds. This is true.  Recruiters and managers are under tremendous pressure, and managers often think of hiring as something extra they have to do in addition to their “real” job. Therefore, a resume has to be optimized to quickly catch their eye. Even then, our goal is not for them to read every word, but rather simply for them to place it in the small pile of people to call, before they move on.
+
+<img width="1440" height="732" alt="unnamed" src="https://github.com/user-attachments/assets/ba079003-6db2-4dd0-9584-5e85091b416e" />
+
+90% of resumes I see make one or more of three mistakes. If you can address these, your resume will likely be good enough to get you a call.
+
+No objective
+Without an objective, a recruiter or hiring manager has to guess if you want their job. If you’re a recruiter with a pile of resumes, some of which state the candidate wants a job like the one you need to fill, and some of which do not, who do you call?
+
+An objective states clearly what kind of role you are looking for in your next job, and a great objective is formulaic and short enough to be read in a single glance.
+
+An example of the formula for a Senior Engineer role would be, “Seeking a role as a Sr. Engineer where I can apply my proven ability to ship scaled services to deliver valuable innovation for the business.”
+
+Let's break this down.
+
+The first part simply states the role you seek. This is particularly important if you are interested in doing something different from your last job. Without context, most people will assume you want to keep doing what you’ve been doing, possibly with a higher level title and more pay. But if you want to switch to management, or change from consulting to traditional corporate employment, then it’s essential you make this clear. Otherwise, people will keep putting you in the box defined by your past.
+
+The second part, “... where I can apply my proven ability to X and Y…” gives you two chances to state your highest qualifications for a role. Right up front, you can highlight the top two reasons to put your resume in the “call” pile.
+
+The third part, “... to create XYZ for the business” shows you are there to help the manager and the company. While you are looking for a “good job” for yourself, the manager is not focused on “giving someone a good job.” Instead, they want to find someone who can solve their problems and help them. Right up front, you want to convey that you are not just interested in yourself, but that you are also dedicated to providing value to your new manager.
+
+I have gotten pushback on the first part of this formula because some people worry that if they clearly state a target role, they will miss out on other possible roles with different levels or titles which they might fit. This is possible, but there are two reasons why it’s best to state a clear objective.  
+
+First, there are many candidates for every role. Just like with search results, it is better to be the first choice for one job, than the seventh choice for ten jobs. If the top three candidates get calls, you want to get one call rather than fall below the line on all of them.
+
+Second, you can always have multiple versions of your resume. You can state your objective of securing an “engineering leadership” role on one, and a “product leadership” role on another – if you are qualified for both. Then you can use them for different types of roles.
+
+Let’s look at a few examples:
+
+Organizing Chaos | Managing Change | Driving Efficiency
+
+I am a driven, passionate, action-oriented leader that turns problems into streamlined processes. I led the turnaround of a $10M product line, with a 15,000 basis point (150%) margin improvement (from -125% to +25%) during the 19 months that I managed the products sourcing and operations fulfillment department.
+
+With a background encompassing program, product, and people management, accounting and finance, legal and risk, business operations, analytics, and digital marketing. I’m a multipotentialite who enjoys applying a broad range of experiences and knowledge to new situations. I push myself out of the comfort zone, tackling projects without previous subject matter experience but with ability to quickly obtain visibility into how people with different functions operate. I thrive in organizing chaos: finding and connecting the pieces others often don’t see and building new mechanisms to improve the way we work. My agility, ability to deal with ambiguity, strong business acumen, and relentless search for a challenge, make me the perfect fit for a growing organization undergoing change or in need of transformation.
+
+This is a typical opening section I see on a resume. While the opening paragraph contains an excellent numerical example of a big accomplishment, the second paragraph is seven full lines in which the candidate just talks about themselves in positive terms. It has no data to back anything up and is just a big block of text that most recruiters will skip right over.
+
+Effective and accomplished executive with broad range of experience in finance, operations, strategy, M&A, fundraising, human resources, data analysis, and digital marketing. Proven success in building companies and teams in high growth environments to scale profitability.
+
+This second example is much shorter and more likely to be read, but gets into a long list of disparate areas, leaving the reader wondering what kind of job the candidate actually wants.
+
+Objective: Provide professional development at scale, guiding transitions to executive leadership.
+
+
+Proven executive leadership of multiple $500M+ businesses across games, video, apps, and music. Global leadership experience of teams of 800+. Technical inventor; 60+ issued patents.
+
+This final example is from my own Executive Coaching resume. It explains in one line what I provide, and then gives two lines containing key examples of my accomplishments that support my ability to do this effectively.
+
+No results, only activities
+This is the single most common mistake I see on resumes.
+
+People write down what they did, describe their activities  such as that they wrote code, managed a number of people, or worked on this or that project. Some even list their most boring activities, like creating reports or organizing files.
+
+Writing down your work makes you a worker. You will be interviewed and leveled as someone who can be assigned work to do.
+
+Senior performers know that they are valued for their impact rather than their activities. They make a point to show the results of their work, the impact on a team, company, or business.
+
+Consider the difference between:
+
+“As a part of Project X, wrote Java code to implement several critical microservices.”
+
+And
+
+“As a part of Project X, wrote Java code for several critical microservices, allowing it to support enterprise environments, resulting in several key new customers buying the product.”
+
+Which engineer sounds more senior and valuable?
+
+It is usually possible to rewrite nearly every bullet on your resume in a way that describes why your work mattered, not just what you did. Try to show that your presence made a positive difference to a team, product, and the bottom line.
+
+The good news is that there are advanced tricks you can use to make this compelling:
+
+If possible, link to your results. People exaggerate and lie on resumes whereas nothing says “my work is real,” like a link to the project.
+
+The human eye is automatically drawn to bold.  You can selectively bold a few keywords or phrases to ensure your very strongest accomplishments are noticed.
+
+Use action verbs, such as ‘owned,’ ‘built,’ ‘drove,’ or ‘delivered’ to give your bullets an “active voice.” This suggests you actively did something, rather than just be passively present when it happened
+
+People believe specific numbers. Resumes with numeric results in the bullets get 132% more calls than those without them. I just made that point up, but I bet you believed it.
+
+Where possible, include dollar figures if relevant to the results.
+
+Let’s apply this to our example and see how strong it becomes:
+
+“Delivered several critical microservices in Java for Project X, allowing it to support enterprise environments. This resulted in a 74% increase in service usage, including adoption by several key new customers, generating $29M in incremental revenue.”
+
+Now, who do you think the company wants to hire?
+
+Let’s look at some real examples of the differences between generic resume bullets not focused on numeric results, and compare them to some designed to showcase results.
+
+Typical bullets:
+Manage information technology for the organization, access control, security, and onboarding/offboarding users.
+
+Draft, monitor, and maintain policies and procedures to support the organization’s information technology.
+
+Develop relationships with vendors and partners for supply chain, on-site network infrastructure, information security, and software lifecycle.
+
+Develop and manage a roadmap for changes to systems architecture. Ensure transparency of roadmap and timeline, and communicate often with stakeholders about the status of work.
+
+Partner with internal stakeholders to develop processes and system recommendations.
+
+Manage enterprise systems projects and ensure that projects are completed accurately and on time.
+
+Evaluate end user needs, organizational goals, budgets, and existing applications to define system requirements and technical standards.
+
+Bullets with clear, numeric results:
+Planned, built, and deployed 100% cloud and SaaS infrastructure in a greenfield startup.
+
+Fully automated employee hardware lifecycle, reducing onboarding time per employee from 2 hours to 10 minutes.
+
+Engineered and deployed scalable blueprint for SD-WAN networks for an organization of 1,000+ schools.
+
+Created and deployed end-user knowledge base, reducing engineering support tickets from 50 per week to 5 per week and a time-to-close metric of 15 minutes.
+
+Next, let’s look at the same job from a real resume, described in two different ways. The first description is typical and tells you what the person did. The second description is the exact same content, but it’s organized to emphasize impact, and show active leadership of projects...
+
 ## Índice
 Guía para entrevistas técnicas como Ingeniero de software
 
